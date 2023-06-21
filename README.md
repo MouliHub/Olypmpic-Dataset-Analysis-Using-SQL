@@ -1,7 +1,7 @@
 
 # OLYMPIC HISTORY DATA EXPLORATION USING SQL
 
-I have downloaded the Olympics history dataset from Kaggle and utilized Microsoft SQL Server Management Studio (SSMS) to explore the data by writing SQL queries, for the problem statements
+I have downloaded the Olympics history dataset from Kaggle and used Microsoft SQL Server Management Studio (SSMS) to explore the data by writing SQL queries for the below problem statements
 
 * Which nation has participated in all of the olympic games
 * Identify the sport which was played in all summer olympics
